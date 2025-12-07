@@ -63,7 +63,7 @@ The dataset contains **50,000 records** with the following key columns:
 - **MAE** (Mean Absolute Error)
 - **R²** (Coefficient of Determination)
 
-_Add your real numbers here:_
+
 
 - Random Forest:
   - RMSE: `5.106426288511369`
