@@ -99,9 +99,11 @@ The notebook includes:
 ##  How to Run
 
 ```bash
-git clone <your-repo-url>
-cd disaster-recovery-ml
+git clone https://github.com/haz4rl/Disaster-Recovery-Time-Prediction-using-Machine-Learning.git
+cd Disaster-Recovery-Time-Prediction-using-Machine-Learning
 
 pip install -r requirements.txt
 
 jupyter notebook
+
+Open imageclassification/notebooks/recovery_time_prediction.ipynb.
